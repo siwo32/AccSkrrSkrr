@@ -1,0 +1,11 @@
+{
+  "build": 10000,
+  "version": "1.0.0",
+  "download_url": "https://howareyu.booth.pm/items/8909830",
+  "changes": [
+    "画像付き使い方ガイド、Discord案内、バージョン表示を追加しました。"
+  ],
+  "changes_en": [
+    "Added illustrated help, Discord support and installed version display."
+  ]
+}
